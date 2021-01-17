@@ -1,6 +1,7 @@
 import * as React from "react"
 // import './App.css';
 import Home from './Home'
+import Product from './Product'
 import {useRef} from "react"
 import {
   BrowserRouter as Router,
